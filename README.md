@@ -1,20 +1,20 @@
-Smart India Hackathon Workshop
-Date: 16.12.2025
-Register Number: 212223220021
-Name: Dineshkarthik N
-Problem Title
+# Smart India Hackathon Workshop
+# Date: 16.12.2025
+## Register Number: 212222240003
+## Name: Adhithya S
+## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 
-Problem Description
+## Problem Description
 Background: Railway stations are complex environments with numerous facilities and locations such as ticket counters, platforms, restrooms, food courts, and waiting areas. Passengers often face difficulties in navigating these spaces, especially in large or unfamiliar stations. Efficient and user-friendly navigation systems are crucial for improving passenger experience, reducing congestion, and ensuring timely travel connections. Description: The problem involves developing a comprehensive navigation solution for railway stations that assists passengers in locating various facilities and destinations within the station premises. This includes creating detailed maps, providing real-time directions, and integrating features such as accessibility options for individuals with disabilities. The solution should be intuitive, easy to use, and accessible via multiple platforms, including mobile devices and digital kiosks. Key challenges include updating navigation information in real-time, ensuring accuracy, and accommodating the diverse needs of all passengers. Expected Solution: The expected solution is a multi-platform navigation system that provides detailed, real-time directions to all facilities and locations within a railway station. This system should include: A mobile application with 3D interactive maps and step-by-step navigation. Digital kiosks located throughout the station with touch-screen interfaces. Voice-guided navigation for visually impaired passengers. Regular updates to reflect changes in station layout and facility locations. Integration with existing railway apps and services for seamless user experience. The solution should enhance the overall passenger experience by reducing confusion, saving time, and improving accessibility within the station.
 
-Problem Creater's Organization
+## Problem Creater's Organization
 Ministry of Railway
 
-Idea
+## Idea
 The idea of SIH 1710 is to develop a smart, real-time navigation system for railway stations. It helps passengers easily locate facilities like platforms, ticket counters, restrooms, and food courts. The system will be accessible through mobile apps and digital kiosks with interactive maps. It will support voice guidance, multi-language options, and features for people with disabilities. This solution aims to improve passenger experience, reduce confusion, and ensure smooth movement within stations.
 
-Proposed Solution / Architecture Diagram
+## Proposed Solution / Architecture Diagram
 Real-Time Tracking: Use IoT sensors and beacons to monitor passenger flow and facility status.
 
 Multi-Platform Access: Deliver navigation via mobile apps, web portals, and digital kiosks with interactive maps.
@@ -26,13 +26,14 @@ Inclusivity: Voice guidance, multi-language support, and accessibility features 
 Admin Control: Station staff and administrators manage alerts, updates, and analytics for efficient operations.
 
 Goal: Reduce confusion, improve safety, and enhance passenger experience in railway stations.
+<img width="1907" height="396" alt="image" src="https://github.com/user-attachments/assets/beedb8e3-c944-4a04-8de0-b58ec953f4b0" />
 
-image
-Use Cases
+## Use Cases
 The use case diagram represents the interaction between a passenger and the railway station navigation system. The main actor is the passenger who accesses the system via mobile apps or digital kiosks. They can view an interactive station map to locate facilities like platforms and restrooms. Passengers can select their destination within the station premises. The system provides voice-guided directions, supporting accessibility for all users. This diagram helps visualize the core features aimed at improving passenger navigation and experience.
 
-image
-Technology Stack
+<img width="713" height="737" alt="image" src="https://github.com/user-attachments/assets/0e6d079b-621a-440a-8bbc-b675b05b03b6" />
+
+## Technology Stack
 1.Frontend: Flutter / React Native (Mobile), React (Kiosk UI)
 
 2.Backend: Node.js / Django / FastAPI
@@ -47,7 +48,7 @@ Technology Stack
 
 7.Hosting: AWS / Azure / Railway Station’s On-premise servers
 
-Dependencies
+## Dependencies
 1.Accurate and updated station layout blueprints
 
 2.Permission to access or integrate with Indian Railways infrastructure
